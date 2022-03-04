@@ -1,0 +1,10 @@
+C:\Users\braulio\Desktop\tareas y practicas Braulio\programacion\año bisiesto\año bisiesto\año bisiesto\bin\Debug\año bisiesto.exe.config
+C:\Users\braulio\Desktop\tareas y practicas Braulio\programacion\año bisiesto\año bisiesto\año bisiesto\bin\Debug\año bisiesto.exe
+C:\Users\braulio\Desktop\tareas y practicas Braulio\programacion\año bisiesto\año bisiesto\año bisiesto\bin\Debug\año bisiesto.pdb
+C:\Users\braulio\Desktop\tareas y practicas Braulio\programacion\año bisiesto\año bisiesto\año bisiesto\obj\Debug\año bisiesto.csproj.AssemblyReference.cache
+C:\Users\braulio\Desktop\tareas y practicas Braulio\programacion\año bisiesto\año bisiesto\año bisiesto\obj\Debug\año_bisiesto.Form1.resources
+C:\Users\braulio\Desktop\tareas y practicas Braulio\programacion\año bisiesto\año bisiesto\año bisiesto\obj\Debug\año_bisiesto.Properties.Resources.resources
+C:\Users\braulio\Desktop\tareas y practicas Braulio\programacion\año bisiesto\año bisiesto\año bisiesto\obj\Debug\año bisiesto.csproj.GenerateResource.cache
+C:\Users\braulio\Desktop\tareas y practicas Braulio\programacion\año bisiesto\año bisiesto\año bisiesto\obj\Debug\año bisiesto.csproj.CoreCompileInputs.cache
+C:\Users\braulio\Desktop\tareas y practicas Braulio\programacion\año bisiesto\año bisiesto\año bisiesto\obj\Debug\año bisiesto.exe
+C:\Users\braulio\Desktop\tareas y practicas Braulio\programacion\año bisiesto\año bisiesto\año bisiesto\obj\Debug\año bisiesto.pdb
