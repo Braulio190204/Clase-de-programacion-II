@@ -1,0 +1,10 @@
+C:\Users\braulio\Desktop\tareas y practicas Braulio\programacion\agrergar y quitar elemento\bin\Debug\agrergar y quitar elemento.exe.config
+C:\Users\braulio\Desktop\tareas y practicas Braulio\programacion\agrergar y quitar elemento\bin\Debug\agrergar y quitar elemento.exe
+C:\Users\braulio\Desktop\tareas y practicas Braulio\programacion\agrergar y quitar elemento\bin\Debug\agrergar y quitar elemento.pdb
+C:\Users\braulio\Desktop\tareas y practicas Braulio\programacion\agrergar y quitar elemento\obj\Debug\agrergar y quitar elemento.csproj.AssemblyReference.cache
+C:\Users\braulio\Desktop\tareas y practicas Braulio\programacion\agrergar y quitar elemento\obj\Debug\agrergar_y_quitar_elemento.Form1.resources
+C:\Users\braulio\Desktop\tareas y practicas Braulio\programacion\agrergar y quitar elemento\obj\Debug\agrergar_y_quitar_elemento.Properties.Resources.resources
+C:\Users\braulio\Desktop\tareas y practicas Braulio\programacion\agrergar y quitar elemento\obj\Debug\agrergar y quitar elemento.csproj.GenerateResource.cache
+C:\Users\braulio\Desktop\tareas y practicas Braulio\programacion\agrergar y quitar elemento\obj\Debug\agrergar y quitar elemento.csproj.CoreCompileInputs.cache
+C:\Users\braulio\Desktop\tareas y practicas Braulio\programacion\agrergar y quitar elemento\obj\Debug\agrergar y quitar elemento.exe
+C:\Users\braulio\Desktop\tareas y practicas Braulio\programacion\agrergar y quitar elemento\obj\Debug\agrergar y quitar elemento.pdb
