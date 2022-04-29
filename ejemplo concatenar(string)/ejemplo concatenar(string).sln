@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejemplo concatenar(string)", "ejemplo concatenar(string).csproj", "{BC638928-EF73-49E5-A208-61C1A2822A27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC638928-EF73-49E5-A208-61C1A2822A27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC638928-EF73-49E5-A208-61C1A2822A27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC638928-EF73-49E5-A208-61C1A2822A27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC638928-EF73-49E5-A208-61C1A2822A27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {906D4EE5-5C9C-4473-B6BC-397D67935ECF}
+	EndGlobalSection
+EndGlobal
