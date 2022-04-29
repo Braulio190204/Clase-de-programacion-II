@@ -1,0 +1,10 @@
+C:\Users\braulio\Desktop\tareas y practicas Braulio\programacion\capturar errores\bin\Debug\capturar errores.exe.config
+C:\Users\braulio\Desktop\tareas y practicas Braulio\programacion\capturar errores\bin\Debug\capturar errores.exe
+C:\Users\braulio\Desktop\tareas y practicas Braulio\programacion\capturar errores\bin\Debug\capturar errores.pdb
+C:\Users\braulio\Desktop\tareas y practicas Braulio\programacion\capturar errores\obj\Debug\capturar errores.csproj.AssemblyReference.cache
+C:\Users\braulio\Desktop\tareas y practicas Braulio\programacion\capturar errores\obj\Debug\capturar_errores.Form1.resources
+C:\Users\braulio\Desktop\tareas y practicas Braulio\programacion\capturar errores\obj\Debug\capturar_errores.Properties.Resources.resources
+C:\Users\braulio\Desktop\tareas y practicas Braulio\programacion\capturar errores\obj\Debug\capturar errores.csproj.GenerateResource.cache
+C:\Users\braulio\Desktop\tareas y practicas Braulio\programacion\capturar errores\obj\Debug\capturar errores.csproj.CoreCompileInputs.cache
+C:\Users\braulio\Desktop\tareas y practicas Braulio\programacion\capturar errores\obj\Debug\capturar errores.exe
+C:\Users\braulio\Desktop\tareas y practicas Braulio\programacion\capturar errores\obj\Debug\capturar errores.pdb
