@@ -1,0 +1,4 @@
+C:\Users\braulio\Desktop\tareas y practicas Braulio\programacion\agregar y eliminar refresco\obj\Debug\agregar_y_eliminar_refresco.Form1.resources
+C:\Users\braulio\Desktop\tareas y practicas Braulio\programacion\agregar y eliminar refresco\obj\Debug\agregar_y_eliminar_refresco.Properties.Resources.resources
+C:\Users\braulio\Desktop\tareas y practicas Braulio\programacion\agregar y eliminar refresco\obj\Debug\agregar y eliminar refresco.csproj.GenerateResource.cache
+C:\Users\braulio\Desktop\tareas y practicas Braulio\programacion\agregar y eliminar refresco\obj\Debug\agregar y eliminar refresco.csproj.CoreCompileInputs.cache
