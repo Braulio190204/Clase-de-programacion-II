@@ -1,0 +1,10 @@
+C:\Users\braulio\Desktop\tareas y practicas Braulio\programacion\juego de dados\bin\Debug\juego de dados.exe.config
+C:\Users\braulio\Desktop\tareas y practicas Braulio\programacion\juego de dados\bin\Debug\juego de dados.exe
+C:\Users\braulio\Desktop\tareas y practicas Braulio\programacion\juego de dados\bin\Debug\juego de dados.pdb
+C:\Users\braulio\Desktop\tareas y practicas Braulio\programacion\juego de dados\obj\Debug\juego de dados.csproj.AssemblyReference.cache
+C:\Users\braulio\Desktop\tareas y practicas Braulio\programacion\juego de dados\obj\Debug\juego_de_dados.Form1.resources
+C:\Users\braulio\Desktop\tareas y practicas Braulio\programacion\juego de dados\obj\Debug\juego_de_dados.Properties.Resources.resources
+C:\Users\braulio\Desktop\tareas y practicas Braulio\programacion\juego de dados\obj\Debug\juego de dados.csproj.GenerateResource.cache
+C:\Users\braulio\Desktop\tareas y practicas Braulio\programacion\juego de dados\obj\Debug\juego de dados.csproj.CoreCompileInputs.cache
+C:\Users\braulio\Desktop\tareas y practicas Braulio\programacion\juego de dados\obj\Debug\juego de dados.exe
+C:\Users\braulio\Desktop\tareas y practicas Braulio\programacion\juego de dados\obj\Debug\juego de dados.pdb
